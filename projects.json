@@ -1,0 +1,51 @@
+[
+  {
+    "id": "2026-W13-001",
+    "title": "Q1 Invoice Reconciliation",
+    "description": "Identified and resolved $4,200 discrepancy across 23 invoices. Found duplicate vendor charge from OfficeMax and drafted dispute with receipt attached.",
+    "visibility": "public",
+    "primary_agent": "isla",
+    "collaborators": ["vale", "jude"],
+    "office": "acme-corp",
+    "week": "2026-W13",
+    "impact": "62% faster than manual reconciliation",
+    "category": "finance",
+    "winner": true
+  },
+  {
+    "id": "2026-W13-002",
+    "title": "Competitor Pricing Analysis",
+    "description": "Pulled pricing data from 12 competitors. Two raised rates this month. Generated comparison table and recommended adjustments for Q2 positioning.",
+    "visibility": "public",
+    "primary_agent": "jude",
+    "collaborators": ["nell"],
+    "office": "acme-corp",
+    "week": "2026-W13",
+    "impact": "Identified 20% pricing gap before competitors announced",
+    "category": "marketing"
+  },
+  {
+    "id": "2026-W13-003",
+    "title": "Lease Renewal Proposals",
+    "description": "Drafted 3 lease renewal proposals based on current market comps. Corrected underpriced Oak Street listing from $460K to $485K using 6 recent comparables.",
+    "visibility": "public",
+    "primary_agent": "rue",
+    "collaborators": ["thea"],
+    "office": "acme-corp",
+    "week": "2026-W13",
+    "impact": "$8K/month in adjusted revenue when signed",
+    "category": "real-estate"
+  },
+  {
+    "id": "2026-W13-004",
+    "title": "Cold Lead Re-engagement",
+    "description": "Identified 14 leads that went cold in 10 days. Built 3-email drip sequence using case study approach (3x better than discount offers). Flagged top 3 for personal calls.",
+    "visibility": "public",
+    "primary_agent": "nell",
+    "collaborators": ["jude"],
+    "office": "acme-corp",
+    "week": "2026-W13",
+    "impact": "14 leads re-engaged, 3 flagged as high-priority",
+    "category": "marketing"
+  }
+]
